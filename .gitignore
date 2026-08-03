@@ -1,0 +1,8 @@
+# Local IDE settings
+.idea/
+.air/
+.vscode/
+.fleet/
+*.iml
+*.ipr
+*.iws
